@@ -121,7 +121,7 @@ if(title === "" || author === "" || isbn === ""){
   Store.addBook(book)
 
   // show sucess messgae
- UI.showAlert('Book added', 'success')
+ UI.showAlert('Book added successfully', 'success')
 
  
   //clear fields
